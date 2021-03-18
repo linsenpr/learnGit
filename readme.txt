@@ -7,4 +7,4 @@ Creating a new branch is quick & simple...
 test3 modified in branch-dev
 test123 and dev321
 add a new branch called 'dev2'.
-dev2 for testing the merge
+dev2 for testing the merge.
