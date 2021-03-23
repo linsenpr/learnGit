@@ -10,3 +10,4 @@ add a new branch called 'dev2'.
 dev2 for testing the merge.
 fixed a bug on issue-01.
 fixed a bug on issue-02.
+created a new file called 'dev'.
