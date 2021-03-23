@@ -8,3 +8,4 @@ test3 modified in branch-dev
 test123 and dev321
 add a new branch called 'dev2'.
 dev2 for testing the merge.
+fixed a bug on issue-01.
